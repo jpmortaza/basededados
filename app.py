@@ -3,7 +3,7 @@ import pandas as pd
 
 
 st.set_page_config(
-    page_title="Base de Dados Colaborativa",
+    page_title="Banco colaborativo de bases de dados publicos",
     layout="wide",
     initial_sidebar_state="expanded",
     page_icon=":books:"
@@ -22,7 +22,7 @@ categorias.insert(0, "Todas")
 categorias_unificadas.insert(0, "Todas")
 
 with st.sidebar:
-    st.title("Base de Dados Colaborativa")
+    st.title("Base de Dados")
     filtro_categoria = st.selectbox("Selecione a categoria:", categorias)
     filtro_categoria_unificada = st.selectbox("Selecione a categoria unificada:", categorias_unificadas)
 
