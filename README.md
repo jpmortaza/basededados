@@ -1,2 +1,2 @@
 # basededados
-Esta ferramenta de pesquisa foi criada com base na planilha colaborativa mantida pela Associação Brasileira de Jornalismo Investigativo (ABRAJI)
+Esta ferramenta de pesquisa foi criada com base na planilha colaborativa mantida pela Associação Brasileira de Jornalismo Investigativo (ABRAJI), com mais de 250 bases de dados abertos provenientes de diversas fontes nacionais e internacionais. A curadoria da planilha é feita por Tiago Mali, especialista em jornalismo de dados e coordenador de cursos da ABRAJI. Através desta ferramenta, é possível pesquisar e filtrar as bases de dados disponíveis de acordo com categorias e termos de busca específicos, facilitando o acesso a informações relevantes para análises e investigações jornalísticas.
